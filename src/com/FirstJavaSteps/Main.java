@@ -3,6 +3,8 @@ package com.FirstJavaSteps;
 public class Main {
 
     public static void main(String[] args) {
-	// write your code here
+	    String message = "Hello,\n\n\t\\Future \"Me\"\\";
+        System.out.println(message);
+
     }
 }
